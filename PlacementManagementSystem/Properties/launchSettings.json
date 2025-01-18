@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "PlacementManagementSystem (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "PlacementManagementSystem (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
