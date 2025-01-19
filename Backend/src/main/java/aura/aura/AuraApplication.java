@@ -1,13 +1,13 @@
-package com.aura.placement_management_system;
+package aura.aura;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class PlacementManagementSystemApplication {
+public class AuraApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(PlacementManagementSystemApplication.class, args);
+		SpringApplication.run(AuraApplication.class, args);
 	}
 
 }

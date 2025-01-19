@@ -1,10 +1,10 @@
-package com.aura.placement_management_system;
+package aura.aura;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class PlacementManagementSystemApplicationTests {
+class AuraApplicationTests {
 
 	@Test
 	void contextLoads() {
